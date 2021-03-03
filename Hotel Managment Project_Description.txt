@@ -1,0 +1,20 @@
+  Project Name: Hotel Managment Database System
+StudentID        :1256943
+Student Name:MOHAMMAD SAIDUR RAHMAN
+BatchID           :ESAD-CS/NVIT-M/44/01
+    
+Project Description :The system provides to managing the reservation process. the system will able user to add, delete, edit and update reservation.
+The system provide employee who work in the reception of hotel to make reservation for visitor or guest and confirm it by searching for available rooms,
+ add guest information, and payment process. the system will find solution for recording the bill automatically. the procedure of hotel reservation has been 
+analyzed by logging into booking website for hotel.The system is build and developing using SQL 2017 to build and manage system database
+The Problem Increase the electronic activates and Innovation in information system today require to faster response to exchange all traditional 
+operations to systematic operations, from this point in our Hotel Management system we will try to Exchange all Hotel and Reservations traditional Process 
+to systematic process.The main objective from this system is Build and development system to manage all Hotel activities.
+Guests and employee can reserve available room dependent on data that were enter it in the search process.Pre-condition:Room that is selected must be available.
+The number of persons stay in the room should be the same limited number for the room. Initial Step-By-Step Description:Enter the  name, phone,
+credit card number, Nationality and other details about guest.Enter the check in and checkout date. The system must be checking all details before save it.
+Post-condition: The system must be complete reservation process successfully and save it in the database. Exception: The guest or employee enters previous 
+date from current date the system must show message for user explains that.Alternative: The system Suggest for guest the earliest date. Reservation Use Case
+Requirement specification analysis ,Brief Description: The guest can request services. Pre-condition: The guest already checks in.Initial Step-By-Step Description: 
+The guest request services. The guest enters type of services.The guest selects level of services.The System shows cost of services to the guest.Post-condition: 
+The system provides guest service.The system adds cost of service to guest balance. Request Services Use Case.
